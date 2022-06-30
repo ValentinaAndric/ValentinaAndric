@@ -2,8 +2,8 @@
 
 
 
- 🔭 I’m IT student
+ :student: IT student
  
- 🌱 I’m interesred in high technology 
+ :light: I’m interesred in high technology 
 
 
