@@ -1,6 +1,19 @@
 ### Hi there 👋
+<div>
+<a href="https://www.linkedin.com/in/valentina-andri%C4%87-4307761b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ <a href="https://www.facebook.com/valentina.andric.58">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+ </a>
+ <a href="https://www.facebook.com/valentina.andric.58">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/valentina-andri%C4%87-4307761b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+</div>
+
+
  :books: Faculty of technical sciences, University of Novi Sad
  
  :student: IT student
