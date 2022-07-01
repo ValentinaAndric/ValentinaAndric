@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<a href="https://www.linkedin.com/in/valentina-andri%C4%87-4307761b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  :books: Faculty of technical sciences, University of Novi Sad
  
  :student: IT student
