@@ -12,7 +12,7 @@
 </a>
 
 </div>
-<p></p>
+<span></span>
 
  :books: Faculty of technical sciences, University of Novi Sad
  
