@@ -18,7 +18,7 @@
  
  :student: IT student
  
- :bulb: Hight technology
+ :bulb: High technology
  
  :hammer: Build something interesting and make world easier
  
