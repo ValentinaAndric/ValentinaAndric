@@ -18,14 +18,6 @@
  
  :student: IT student
  
- :bulb: High technology
- 
- :hammer: Build something interesting and make world easier
- 
- :taurus: Persistence
- 
- :weight_lifting: Don't forget to do exercises
- 
  ### Languages 
  <div>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
